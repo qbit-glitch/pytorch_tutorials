@@ -8,3 +8,5 @@ model_*
 venv_2/
 *.pth
 venv1/
+
+models/
