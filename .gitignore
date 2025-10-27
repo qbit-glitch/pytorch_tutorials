@@ -1,3 +1,10 @@
 data/
 model_weights.pth
 model.pth
+
+runs/
+model_*
+
+venv_2/
+*.pth
+venv1/
